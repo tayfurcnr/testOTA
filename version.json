@@ -1,4 +1,5 @@
 {
-    "version": 16,
-    "organization": "IOM"
+	"version_link": "https://raw.githubusercontent.com/tayfurcnr/testOTA/version.json",
+	"version": 16,
+	"organization": "IOM"
 }
